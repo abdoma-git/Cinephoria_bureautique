@@ -17,15 +17,15 @@ Cinéphoria Bureautique est une interface conviviale permettant aux employés de
 
 
 <div style="display:flex; gap:20px;"> 
-    <img  src="Capture B1.png">
-    <img  src="Capture B2.png">
+    <img width=250 src="Capture B1.png">
+    <img width=250 src="Capture B2.png">
 </div>
 
 <br>
 
 <div style="display:flex; gap:20px;">
-    <img src="Capture B3.png">
-    <img src="Capture B4.png">
+    <img width=250 src="Capture B3.png">
+    <img width=250 src="Capture B4.png">
 </div>
 
 
