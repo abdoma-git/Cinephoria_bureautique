@@ -2,6 +2,24 @@
 
 Bienvenue dans **Cinéphoria Bureautique**, une application de bureau développée en Python avec Tkinter pour la gestion des incidents techniques dans les salles de cinéma.
 
+Cette application est développée en Python en utilisant la bibliothèque Tkinter pour l'interface graphique. Ce document vous guidera à travers les étapes nécessaires pour lancer l'application en local sur votre machine.
+
+## Prérequis
+
+Avant de lancer l'application, assurez-vous d'avoir les éléments suivants installés :
+
+1. **Python 3.x** : Vous pouvez télécharger la dernière version de Python depuis [python.org](https://www.python.org/downloads/).
+
+2. **Bibliothèques Python** : Les bibliothèques nécessaires pour exécuter l'application doivent être installées. Si votre application utilise des bibliothèques supplémentaires autres que Tkinter, assurez-vous de les mentionner dans le fichier `requirements.txt` ou d'inclure des instructions pour les installer.
+
+## Installation
+
+1. **Clonez le dépôt** (si l'application est hébergée sur GitHub) :
+
+   ```bash
+   git clone https://github.com/abdoma-git/Cinephoria_bureautique.git
+   cd votre-repository
+
 ---
 
 ## 📌 Présentation de l'application
@@ -61,10 +79,13 @@ L'application contient les fonctionnalités suivantes :
 
 ## 🖥️ Téléchargement du fichier `.exe`
 
-Tu peux télécharger l'application prête à l'emploi ici :
+1 - Tu peux télécharger l'application prête à l'emploi ici :
 
-🔗 [Cinéphoria_Bureau.exe](https://github.com/abdoma-git/Cinephoria_bureautique/blob/master/output/Cinephoria_Bureau/Cinephoria.exe)
+🔗 [Cinéphoria_Bureau.exe](https://github.com/abdoma-git/Cinephoria_bureautique/blob/master/output/Cinephoria_Bureau)
 
+2-  Double clique sur l'application :
+
+<img src="https://github.com/abdoma-git/Cinephoria_bureautique/blob/master/application.png">
 ---
 
 ## ⚙️ Étapes d'installation sur Windows
